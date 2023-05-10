@@ -1,1 +1,1 @@
-# WcfService1
+https binding for WCF.
